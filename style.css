@@ -1,0 +1,45 @@
+body {
+    background-color:darkgray;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+
+}
+
+
+#pfpimg {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+#about {
+    background-color: black;
+    color: darkgray;
+    text-align: left;
+}
+
+#gmail1 {
+    height: 30px;
+    width: 40px;
+}
+
+#pinterest1 {
+    height: 30px;
+    width: 30px;
+}
+
+#twitter1 {
+    height: 30px;
+    width: 30px;
+}
+
+#dc1 {
+    height: 30px;
+    width: 30px;
+}
+
+#spot1 {
+    height: 30px;
+    width: 40px;
+}
