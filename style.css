@@ -11,7 +11,12 @@ body {
     height: 150px;
     width: 150px;
     border-radius: 100px;
+    -moz-box-shadow:    3px 3px 5px 6px #000000;
+    -webkit-box-shadow: 3px 3px 5px 6px #000000;
+    box-shadow:         3px 3px 5px 6px #808080;
 }
+
+
 
 #about {
     background-color: black;
@@ -42,4 +47,8 @@ body {
 #spot1 {
     height: 30px;
     width: 40px;
+}
+
+#contacts {
+    background-image: url("Cheers!.png");
 }
